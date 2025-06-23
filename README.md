@@ -1,7 +1,6 @@
 # Zero-Auth
 
-🔐 **Zero-Auth** is a simple and powerful tool that works just like **Google Authenticator**. It allows you to generate authentication tokens (TOTP) using a secret key and displays a QR code that you can scan with the Google Authenticator app.
-
+🔐 **Zero-Auth** is a simple and powerful tool that works just like **Google Authenticator**. It allows you to generate authentication tokens (TOTP) using a secret key and displays a QR code that >
 #  Password
 >> zeropoison
 
