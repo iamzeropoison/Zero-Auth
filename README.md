@@ -2,6 +2,9 @@
 
 🔐 **Zero-Auth** is a simple and powerful tool that works just like **Google Authenticator**. It allows you to generate authentication tokens (TOTP) using a secret key and displays a QR code that you can scan with the Google Authenticator app.
 
+#  Password
+>> zeropoison
+
 ## 📦 Tool Name
 **authgenerator.exe**
 
@@ -31,6 +34,4 @@ This tool can be used to:
 
 ## 📷 Example
 
-Once you run the tool, you'll see a QR code like this (example):
-
-
+Once you run the tool, you'll see a QR code :
